@@ -1,4 +1,4 @@
-👋  - Hi, I’m @vkozelka. Freelance developer from Prague, Czechia
+👋  - Hi, I’m @vkozelka. Freelance developer from Vysočina, Czechia
 
 👀  - I'm using PHP, Ruby on Rails, Node.js, Vue.js, React, MySQL/MariaDB, MongoDB and a loooot of libriaries from composer/npmjs
 
